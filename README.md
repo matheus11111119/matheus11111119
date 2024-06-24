@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Denis J.</code>, tenho 19 anos, moro em Contagem e sou um amante da programação. Atualmente estou estudando <code>Sistema da Informação</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalho de assistente de técnico e informatica.
+<i><b>Olá</b> :wave:, sou o <code>Matheus.N.</code>, tenho 19 anos, moro em Belo horizonte e sou um amante/hater da programação. Atualmente estou estudando <code>Analise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalho de operador de maquinas na Stellantis.
 </div>
 
 -----
@@ -44,11 +44,11 @@
 
 <div align="justify">
 <p> 
-- 👨‍🎓: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Sistema da Informação. <br />
+- 👨‍🎓: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Analise e Desenvolvimento de Sistemas. <br />
 - :Já atuei como <code>Freelancer</code> com minha irmã em sua empresa. <br />
 - :soccer: &nbsp; Sou cruzeirence, torço pra <a href="https://www.cruzeiro.com.br/"_blank">China Azul</a>. 🦊:<br />
-- 🎮: &nbsp; Adoro jogar video games, violão e guitarra no meu tempo livre.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:denisjuniordj4@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+- 🎮: &nbsp; Adoro jogar video games,e desenhar no meu tempo livre.<br />
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:matheus.n.guimaraes117@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 </p>
 </div>
 </div>
