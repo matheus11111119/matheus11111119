@@ -30,7 +30,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Matheus.N.</code>, tenho 19 anos, moro em Belo horizonte e sou um amante/hater da programação. Atualmente estou estudando <code>Analise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalho de operador de maquinas na Stellantis.
+<i><b>Olá</b> :wave:, sou o <code>Matheus.</code>, tenho 19 anos, moro em Belo horizonte e sou um amante/hater da programação. Atualmente estou estudando <code>Analise e Desenvolvimento de Sistemas</code> na <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> e também trabalho de operador de maquinas na Stellantis.
 </div>
 
 -----
