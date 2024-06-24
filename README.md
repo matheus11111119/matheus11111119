@@ -40,7 +40,7 @@
 <img align="right" alt="GIF" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gif%20git.gif" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/Dnizdj/Dnizdj/blob/main/img/gif%20git.gif"/>Meus interesses pessoais:
+
 
 <div align="justify">
 <p> 
